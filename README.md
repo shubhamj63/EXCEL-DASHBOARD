@@ -1,3 +1,3 @@
 # EXCEL-DASHBOARD
-![ECOMMERCE SALE ANALYSIS DASHBOARD](https://user-images.githubusercontent.com/118158987/222894680-e84cbb50-4de8-43f3-a004-b2b537049dd3.png)
+![image](https://user-images.githubusercontent.com/118158987/222894896-527b7320-b51e-4953-a20b-063a2ab982d6.png)
 
